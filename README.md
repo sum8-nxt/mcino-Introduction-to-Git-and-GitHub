@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-This simple tool calculates simple interest using the principal amount, annual interest rate, and duration in years.
+This tool calculates simple interest using the principal amount, annual interest rate, and duration in years.
 ```
 Input:
    p, principal amount
